@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>markdown on 三维广告</title>
-    <link>https://example.com/tags/markdown/</link>
+    <link>http://xxlest.github.io/tags/markdown/</link>
     <description>Recent content in markdown on 三维广告</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 13 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://xxlest.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>数字沙盘</title>
-      <link>https://example.com/case/digit-table/</link>
+      <link>http://xxlest.github.io/case/digit-table/</link>
       <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/case/digit-table/</guid>
+      <guid>http://xxlest.github.io/case/digit-table/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>数字沙盘</title>
-      <link>https://example.com/template/digit-table/</link>
+      <link>http://xxlest.github.io/template/digit-table/</link>
       <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/template/digit-table/</guid>
+      <guid>http://xxlest.github.io/template/digit-table/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://example.com/case/placeholder-text/</link>
+      <link>http://xxlest.github.io/case/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/case/placeholder-text/</guid>
+      <guid>http://xxlest.github.io/case/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://example.com/template/placeholder-text/</link>
+      <link>http://xxlest.github.io/template/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/template/placeholder-text/</guid>
+      <guid>http://xxlest.github.io/template/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     

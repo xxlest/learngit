@@ -2,89 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/products/example/</loc>
+    <loc>http://xxlest.github.io/products/example/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>http://xxlest.github.io/</loc>
     <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://xxlest.github.io/categories/</loc>
     <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>http://xxlest.github.io/tags/css/</loc>
     <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>http://xxlest.github.io/tags/html/</loc>
     <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>http://xxlest.github.io/tags/markdown/</loc>
     <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/syntax/</loc>
+    <loc>http://xxlest.github.io/categories/syntax/</loc>
     <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://xxlest.github.io/tags/</loc>
     <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/themes/</loc>
+    <loc>http://xxlest.github.io/categories/themes/</loc>
     <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/case/</loc>
+    <loc>http://xxlest.github.io/case/</loc>
     <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/template/</loc>
+    <loc>http://xxlest.github.io/template/</loc>
     <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/case/digit-table/</loc>
+    <loc>http://xxlest.github.io/case/digit-table/</loc>
     <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/template/digit-table/</loc>
+    <loc>http://xxlest.github.io/template/digit-table/</loc>
     <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/privacy/</loc>
+    <loc>http://xxlest.github.io/tags/privacy/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/shortcodes/</loc>
+    <loc>http://xxlest.github.io/tags/shortcodes/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/case/digit-table-video/</loc>
+    <loc>http://xxlest.github.io/case/digit-table-video/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/products/</loc>
+    <loc>http://xxlest.github.io/products/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://example.com/template/rich-content/</loc>
+    <loc>http://xxlest.github.io/template/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/case/placeholder-text/</loc>
+    <loc>http://xxlest.github.io/case/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/template/placeholder-text/</loc>
+    <loc>http://xxlest.github.io/template/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/text/</loc>
+    <loc>http://xxlest.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/case/math-typesetting/</loc>
+    <loc>http://xxlest.github.io/case/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/template/math-typesetting/</loc>
+    <loc>http://xxlest.github.io/template/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>http://xxlest.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/case/emoji-support/</loc>
+    <loc>http://xxlest.github.io/case/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/template/emoji-support/</loc>
+    <loc>http://xxlest.github.io/template/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>http://xxlest.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>http://xxlest.github.io/tags/index/</loc>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>http://xxlest.github.io/contact/</loc>
   </url>
 </urlset>
